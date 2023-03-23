@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "aexml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tadija/AEXML",
+      "state" : {
+        "branch" : "master",
+        "revision" : "38f7d00b23ecd891e1ee656fa6aeebd6ba04ecc3"
+      }
+    },
+    {
+      "identity" : "fontblaster",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ArtSabintsev/FontBlaster",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b1c4e950586adfdf7fbab2c82a3d914e151a2a88"
+      }
+    },
+    {
+      "identity" : "menuitemkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cxa/MenuItemKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "22c027e9cdd89a8e449c714b5a5f64c8976b54ac"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "dd91f5f967c4ae89c37e24ab2a0315c31106648f",
+        "version" : "13.6.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "764211db9d42334962b8ad21a40e2beecffffe99"
+      }
+    },
+    {
+      "identity" : "ziparchive",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ZipArchive/ZipArchive",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b56f8c605a233fb25fe8d49f1b9ed50912c2d1b7"
+      }
+    }
+  ],
+  "version" : 2
+}
